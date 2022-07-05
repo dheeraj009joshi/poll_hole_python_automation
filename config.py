@@ -1,0 +1,5 @@
+BASE_URL = "https://api.pollhole.com/v1/poll/list"
+UP_POLL_URL = "https://api.pollhole.com/v1//poll"
+ACCESS_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyODY5OWJhOGJlNDMxMzBiY2JlZWJhNCIsImlhdCI6MTY1NTMwMzE0MX0.9FiYCwa_S8HDzVbflrt4xsrW6D1K97183y7X1EBHV_8"
+ACCESS_KEY = 'AKIAYRWME3LANUPIDUSE'
+SECRET_KEY = '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'

@@ -1,0 +1,4 @@
+creater_id,question,tags,meta_keyword,question_type,status,total_vote,likes_count,dislikes_count,og_image
+6287b3365e65b700044e78f3,US Supreme Court,Politics,Us Supreme Court,3,1,Random(300 – 1200),total_vote * Random(.40-.60),total_vote - likes_count,
+6287b3365e65b700044e78f3,FDA,Politics,FDA,3,1,Random(300 – 1200),total_vote * Random(.40-.60),total_vote - likes_count,
+6287b3365e65b700044e78f3,Keith Olbermann,Politics,Keith Olbermann,3,1,Random(300 – 1200),total_vote * Random(.40-.60),total_vote - likes_count,
